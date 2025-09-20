@@ -14,7 +14,7 @@ const StudentTable = () => {
   return (
     <div>
       <h2>รายชื่อนักเรียน</h2>
-      <table border="1" cellPadding="5" style={{borderCollapse: 'collapse', width: '100%'}}>
+      <table border="1" cellPadding="5" style={{borderCollapse:'collapse', width:'100%'}}>
         <thead>
           <tr>
             <th>ชื่อ</th>
